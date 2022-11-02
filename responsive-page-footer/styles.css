@@ -19,7 +19,7 @@ main div{
     border-top: 0;
     border-left: 0;
     border-right: 0;
-    border-width: 2px;
+    border-width: 1px;
     padding: 1em;
     margin: 2em;
     display: flex;
