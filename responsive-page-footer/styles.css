@@ -6,7 +6,7 @@ body{
 
 main{
     color: #24262b;
-    background-color: #f9fab9;
+    background-color: #d8d8d8;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -69,7 +69,6 @@ ul{
     bottom: -10px;
     background-color: #e91e63;
     height: 2px;
-    box-sizing: border-box;
     box-sizing: border-box;
     width: 50px;
 }
